@@ -1,4 +1,5 @@
 📰 News Headline Text Classification using Machine Learning
+
 📌 Overview
 This project is a machine learning–based text classification system that predicts the category of a news headline using Natural Language Processing (NLP).
 The model uses TF-IDF vectorization to convert text into numerical features and Logistic Regression as the classifier to predict the category of unseen news headlines.
